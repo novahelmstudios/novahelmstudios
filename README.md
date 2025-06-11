@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Welcome to Novahelm Studios
 
-<!--
-**novahelmstudios/novahelmstudios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+We're an independent game studio focused on crafting immersive, creative, and meaningful digital experiences.
 
-Here are some ideas to get you started:
+🌐 [Play our games](https://novahelmstudios.itch.io)  
+🎮 Game Dev | 💡 Creativity | 🚀 Innovation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 About Us
+Novahelm Studios is a team of passionate developers and storytellers on a mission to deliver unique gameplay through innovative mechanics, captivating stories, and polished aesthetics.
+
+---
+
+### 🚧 Currently Working On
+We're at the beginning of our journey — stay tuned as we build and launch our first titles!
+
+---
+
+### 📫 Connect With Us
+- 🌍 [Itch.io](https://novahelmstudios.itch.io)
+- 🐦 [Twitter/X](https://twitter.com/NovahelmStudios)
+- 📷 [Instagram](https://instagram.com/NovahelmStudios) *(if applicable)*
+
+---
+
+> “From pixels to purpose — every game tells a story.”
+
