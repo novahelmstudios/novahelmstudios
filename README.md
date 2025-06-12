@@ -19,8 +19,7 @@ We're at the beginning of our journey — stay tuned as we build and launch our 
 
 ### 📫 Connect With Us
 - 🌍 [Itch.io](https://novahelmstudios.itch.io)
-- 🐦 [Twitter/X](https://twitter.com/NovahelmStudios)
-- 📷 [Instagram](https://instagram.com/NovahelmStudios) *(if applicable)*
+- 📷 [Instagram](https://instagram.com/NovahelmStudios)
 
 ---
 
